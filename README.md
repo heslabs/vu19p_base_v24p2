@@ -32,7 +32,7 @@
 * Connect HAPS-ZYNQ via serial console
 
 ```
-<Remote> $ sshpass -p <password> ssh user@59.124.169.195 -X
+<Remote> $ sshpass -p <password> ssh vu19p@59.124.169.195 -X
 ```
 
 #### Step-3: Connect HAPS-ZYNQ via serial console from HAPS-PC  
