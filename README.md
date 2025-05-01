@@ -1,5 +1,9 @@
 # HAPS VU19P
 
+### FPGA Prototyping Platform - Lab setup 
+
+<img src="https://github.com/user-attachments/assets/713f953a-b265-42f8-8df8-45b70c512401" width=850>
+
 ---
 
 | Device | IP Address | Description | Smart WiFi Plug |
@@ -11,7 +15,7 @@
 
 * The smart WiFi plug is used to reset HAPS-ZYNQ after HAPS-FPGA programmed
    * Tapo P105 | Mini Smart Wi-Fi Plug [[Tapo]](https://www.tapo.com/en/product/smart-plug/tapo-p105/)
-
+ 
 ---
 ### Remote access to HAPS and ZYNQ module
 
