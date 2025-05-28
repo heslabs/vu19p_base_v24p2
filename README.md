@@ -5,6 +5,32 @@
 <img src="https://github.com/user-attachments/assets/713f953a-b265-42f8-8df8-45b70c512401" width=850>
 
 ---
+## Quick Start Guide
+
+#### Access to HAPS-PC
+```
+ssh vu19p@59.124.169.195 -X
+Password:  
+```
+
+#### Configure HAPS-FPGA (Skip if already configured)
+```
+cd labs/xsct
+```
+
+#### Access to the HAPS-Zynq CPU module 
+```
+ssh xilinx@192.168.50.3 -X
+Password: xilinx
+```
+
+#### Launch Yolov8 demo on Zynq-HAPS
+```
+cd ~/haps
+make bus
+```
+
+---
 
 | Device | IP Address | Description | Smart WiFi Plug |
 |:-|:-|:-|:-|
