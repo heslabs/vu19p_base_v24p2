@@ -7,24 +7,24 @@
 ---
 ## Quick Start Guide
 
-#### Access to HAPS-PC
+#### 1. Access to HAPS-PC
 ```
 ssh vu19p@59.124.169.195 -X
 Password:  
 ```
 
-#### Configure HAPS-FPGA (Skip if already configured)
+#### 2. Configure HAPS-FPGA (Skip if already configured)
 ```
 cd labs/xsct
 ```
 
-#### Access to the HAPS-Zynq CPU module 
+#### 3. Access to the HAPS-Zynq CPU module 
 ```
 ssh xilinx@192.168.50.3 -X
 Password: xilinx
 ```
 
-#### Launch Yolov8 demo on Zynq-HAPS
+#### 4. Launch Yolov8 demo on Zynq-HAPS
 ```
 cd ~/haps
 make bus
