@@ -18,9 +18,7 @@
 * standalone_stdin -> mdm_1
 * standalone_stdout -> mdm_1
   
-<img src="https://github.com/user-attachments/assets/555450bf-6df3-4da3-8f63-359ab82d682a" width=950>
-
-<img src="https://github.com/user-attachments/assets/20e56daa-5254-4403-847a-63ff8c96002c" width=950>
+ <img src="https://github.com/user-attachments/assets/20e56daa-5254-4403-847a-63ff8c96002c" width=950>
 
  
 ---
