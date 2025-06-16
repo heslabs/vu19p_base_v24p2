@@ -1,4 +1,4 @@
-# HAPS VU19P
+# HAPS VU19P Prototyping System
 
 ### FPGA Prototyping Platform - Lab setup 
 
