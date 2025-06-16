@@ -3,7 +3,19 @@
 ### FPGA Prototyping Platform - Lab setup  
 
 <img src="https://github.com/user-attachments/assets/1c8c767d-aef3-4d51-a60a-0de7b0845120" width=950>
- 
+
+---
+
+| Device | IP Address | Description | Smart WiFi Plug |
+|:-|:-|:-|:-|
+| HAPS-VU19P | 192.168.50.2 | HAPS-SX VU19P | 192.168.50.92 |
+| HAPS-ZYNQ | 192.168.50.3 | HAPS SMF ZynqMPSoC/CA53 module | 192.168.50.93 |
+| HAPS-PC | 192.168.50.5 | Linux PC | 192.168.50.95 |
+
+
+* The smart WiFi plug is used to reset HAPS-ZYNQ after HAPS-FPGA programmed
+   * Tapo P105 | Mini Smart Wi-Fi Plug [[Tapo]](https://www.tapo.com/en/product/smart-plug/tapo-p105/)
+     
 ---
 ## Quick Start Guide
 
@@ -30,17 +42,7 @@ cd ~/haps
 make bus
 ```
 
----
 
-| Device | IP Address | Description | Smart WiFi Plug |
-|:-|:-|:-|:-|
-| HAPS-VU19P | 192.168.50.2 | HAPS-SX VU19P | 192.168.50.92 |
-| HAPS-ZYNQ | 192.168.50.3 | HAPS SMF ZynqMPSoC/CA53 module | 192.168.50.93 |
-| HAPS-PC | 192.168.50.5 | Linux PC | 192.168.50.95 |
-
-
-* The smart WiFi plug is used to reset HAPS-ZYNQ after HAPS-FPGA programmed
-   * Tapo P105 | Mini Smart Wi-Fi Plug [[Tapo]](https://www.tapo.com/en/product/smart-plug/tapo-p105/)
  
 ---
 ### Remote access to HAPS and ZYNQ module
