@@ -64,10 +64,10 @@ Source: [AMD FPGA Comparison Table](https://docs.amd.com/v/u/en-US/ultrascale-pl
 ---
 ### HAPS-VU19P and SMF connection
 
-<img src="https://github.com/user-attachments/assets/bbecc9fb-74a9-4989-80a5-fc18a369d65a" width="650">
+<img src="https://github.com/user-attachments/assets/bbecc9fb-74a9-4989-80a5-fc18a369d65a" width="600">
 
 ---
 ### HAPS-VU13P and SMF connection
 
-<img src="https://github.com/user-attachments/assets/de0da14f-9c11-46c9-a1d7-b4e51e83795a" width="650">
+<img src="https://github.com/user-attachments/assets/de0da14f-9c11-46c9-a1d7-b4e51e83795a" width="600">
 
