@@ -1,6 +1,6 @@
 # HAPS VU19P Prototyping System
 
-### FPGA Prototyping Platform - Lab setup  
+## FPGA Prototyping Platform - Lab setup  
 
 <img src="https://github.com/user-attachments/assets/1c8c767d-aef3-4d51-a60a-0de7b0845120" width=950>
 
@@ -19,24 +19,24 @@
 ---
 ## Quick Start Guide
 
-#### 1. Access to HAPS-PC
+### 1. Access to HAPS-PC
 ```
 ssh vu19p@59.124.169.195 -X
 Password:  
 ```
 
-#### 2. Configure HAPS-FPGA (Skip if already configured)
+### 2. Configure HAPS-FPGA (Skip if already configured)
 ```
 cd labs/xsct
 ```
 
-#### 3. Access to the HAPS-Zynq CPU module 
+### 3. Access to the HAPS-Zynq CPU module 
 ```
 ssh xilinx@192.168.50.3 -X
 Password: xilinx
 ```
 
-#### 4. Launch Yolov8 demo on Zynq-HAPS
+### 4. Launch Yolov8 demo on Zynq-HAPS
 ```
 cd ~/haps
 make bus
