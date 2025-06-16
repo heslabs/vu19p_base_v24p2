@@ -13,53 +13,13 @@
 | HAPS-VU13P | XCVU13P | 3,780K SLCs | No CPU (+SMF/CA53) | 16GB/32GB DDR4 (PL) | No OS (+PYNQ Lnx) |
 | HAPS-VU19P | XCVU19P | 8,938K SLCs | No CPU (+SMF/CA53) | 16GB/32GB DDR4 (PL) | No OS (+PYNQ Lnx) |
 | HAPS-SMF | XCZU4EG | 192K SLCs | Arm CA53MP4 (1.5GHz) | 4GB DDR4 (PS) | PYNQ Linux (64bit) |
-
-<br/>
-
+ 
+---
 * AMD Zynq™ 7000 SoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-7000.html)
 * AMD Zynq™ UltraScale+™ MPSoCs - Product Table [[AMD]](https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc/zynq-ultrascale-plus-mpsoc.html)
 * AMD Virtex™ UltraScale+™ FPGAs - Product Table [[AMD]](https://docs.amd.com/v/u/en-US/ultrascale-plus-fpga-product-selection-guide)
 
----
-## Introduction to HAPS Prototyping Hardware
 
-The Synopsys HAPS FPGA prototyping platform is a high-performance prototyping solution designed to enable the development and validation of complex System-on-Chip (SoC) designs. Here are some key features and details about the HAPS platform:
-
-## Key Features of HAPS Prototyping System
-
-1. High Performance:
-   * The HAPS platform provides high-speed prototyping capabilities, allowing for faster execution and more accurate representation of the final hardware compared to software simulators.
-
-2. Parallel Execution:
-    * Unlike simulators that execute register transfer level (RTL) code sequentially, the HAPS platform executes in parallel, offering better performance and a more accurate view of the system as it would operate in real hardware.
-
-3. Debug Environment:
-    * The platform includes a comprehensive debug environment, although it differs from traditional simulation environments. This allows designers to look inside the system without significantly impacting runtime.
-
-4. Verification and Validation:
-    * The HAPS platform is used for thorough verification and validation of SoC designs. This includes using test benches to check the behavior of the blocks and simulators to test the hardware description language (HDL).
-
-5. Design Flexibility:
-    * The platform supports the integration of various IP blocks, either from a catalog of existing components or custom-designed IPs. This flexibility helps in achieving the desired system behavior while meeting key constraints such as size, cost, and performance.
-
-6. Prototyping for ASICs:
-    * The HAPS platform is often used as a prototyping stage before transitioning to an Application-Specific Integrated Circuit (ASIC). This allows designers to prove the functionality and effectiveness of the chip-based implementation.
-
-7. Soft-core and Hard-core CPUs:
-    * The platform supports both soft-core and hard-core CPU implementations. Soft-core CPUs offer flexibility in terms of area and performance, while hard-core CPUs provide fixed processor performance embedded in the FPGA logic.
-
-9. Integration with Arm IP:
-    * The HAPS platform can integrate with Arm IPs, such as Cortex-A processors, to create custom SoCs. This integration is facilitated by tools provided in Arm Academic Access (AAA) program, which provides access to design resources and proven IPs. 
-
----
-
-## Applications of HAPS FPGA Prototyping Platform
-
-* Education: Used in universities for teaching digital system design and creating typical SoC designs with processors.
-* Commercial Product Development: Enables digital designers to create custom digital systems with FPGAs, especially when off-the-shelf microcontroller products do not meet specific requirements.
-* Prototyping for Chip/SoC Designs: Used by ASIC designers for prototyping their designs and providing demonstrations or proof of concepts.
-
-By leveraging the HAPS FPGA prototyping platform, designers can accelerate the development process, ensure thorough verification and validation, and ultimately achieve a more efficient transition from prototype to production.
 
 ---
 <img src="https://github.com/user-attachments/assets/f6dff28d-4308-4775-9bfd-834ea624c6b3" width="650">
