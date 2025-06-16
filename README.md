@@ -2,7 +2,7 @@
 
 ### FPGA Prototyping Platform - Lab setup  
 
-<img src="https://github.com/user-attachments/assets/1c8c767d-aef3-4d51-a60a-0de7b0845120" width=850>
+<img src="https://github.com/user-attachments/assets/1c8c767d-aef3-4d51-a60a-0de7b0845120" width=950>
  
 ---
 ## Quick Start Guide
