@@ -35,7 +35,7 @@ FPGA device used in HAPS system:
   * AMD-Xilinx Virtex UltraScale+ VU19P FPGA
   * 8,930K System Logic Cells (Highest capacity FPGA now in production)
 
-<img src="https://github.com/user-attachments/assets/27807229-e10f-42ff-aebd-440b13f52a41" width="950">
+<img src="https://github.com/user-attachments/assets/27807229-e10f-42ff-aebd-440b13f52a41" width="1000">
 
 Source: [AMD FPGA Comparison Table](https://docs.amd.com/v/u/en-US/ultrascale-plus-fpga-product-selection-guide)  
 
