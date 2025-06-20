@@ -19,7 +19,7 @@
 ---
 ### Advanced Clocking
 
-<img src="https://github.com/user-attachments/assets/f6c5264e-24b5-422b-b892-710335067187" width=650>
+<img src="https://github.com/user-attachments/assets/f6c5264e-24b5-422b-b892-710335067187" width=850>
 
 ---
 ### Advanced Options
@@ -30,4 +30,4 @@
 ---
 ### I/O Planning
 
-<img src="https://github.com/user-attachments/assets/7ab02a02-3286-48dc-b06e-b034cbc15dec" width=650>
+<img src="https://github.com/user-attachments/assets/7ab02a02-3286-48dc-b06e-b034cbc15dec" width=850>
