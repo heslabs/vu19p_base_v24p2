@@ -11,11 +11,23 @@
  
 
 ---
-### DDR4 SODIMM parameters
+### DDR4 SODIMM parameters - Basics
 
-<img src="https://github.com/user-attachments/assets/2a1c0497-70a4-4bc9-9112-4f20829e8543" width=950>
+<img src="https://github.com/user-attachments/assets/2a1c0497-70a4-4bc9-9112-4f20829e8543" width=850>
 
 
 ---
+### Advanced Clocking
+
+<img src="https://github.com/user-attachments/assets/f6c5264e-24b5-422b-b892-710335067187" width=650>
+
+---
+### Advanced Options
+
+<img src="https://github.com/user-attachments/assets/27cd9a64-f9b2-4c39-a744-3cab885b5b48" width=650>
 
 
+---
+### I/O Planning
+
+<img src="https://github.com/user-attachments/assets/7ab02a02-3286-48dc-b06e-b034cbc15dec" width=650>
