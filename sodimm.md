@@ -14,28 +14,21 @@
 
 #### Basics
 
-<img src="https://github.com/user-attachments/assets/21d774a9-c8a6-4fd6-99fd-9b1f7101648f" width=850>
+<img src="https://github.com/user-attachments/assets/21d774a9-c8a6-4fd6-99fd-9b1f7101648f" width=750>
 
 ---
 #### AXI Options
 
-<img src="https://github.com/user-attachments/assets/4182bc42-031d-40a9-8ef5-6d201eae1850" width=850>
-
-
+<img src="https://github.com/user-attachments/assets/4182bc42-031d-40a9-8ef5-6d201eae1850" width=650>
 
 ---
 #### Advanced Clocking
-
-<img src="https://github.com/user-attachments/assets/6f2b3286-f6c4-4055-9c1a-e8d500a5ce69" width=850>
-
-
-
-
+<img src="https://github.com/user-attachments/assets/6f2b3286-f6c4-4055-9c1a-e8d500a5ce69" width=950>
 
 ---
 #### Advanced Options
 
-<img src="https://github.com/user-attachments/assets/ce3f114c-ad5a-43de-970e-671db92a44a5" width=850>
+<img src="https://github.com/user-attachments/assets/ce3f114c-ad5a-43de-970e-671db92a44a5" width=650>
 
 
 ---
@@ -45,11 +38,11 @@
 
 
 ---
-### DDR4 SODIMM parameters 
+### DDR4_1
 
 #### Basics
 
-<img src="https://github.com/user-attachments/assets/2a1c0497-70a4-4bc9-9112-4f20829e8543" width=850>
+<img src="https://github.com/user-attachments/assets/2a1c0497-70a4-4bc9-9112-4f20829e8543" width=750>
 
 
 ---
