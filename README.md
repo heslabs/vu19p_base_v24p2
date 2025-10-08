@@ -62,10 +62,10 @@ make bus
 
 ### Step-2: Connect HAPS-PC from remote
 
-* Connect HAPS-ZYNQ via serial console
+* Connect HAPS-ZYNQ via SSH
 
 ```
-<Remote> $ sshpass -p <password> ssh vu19p@59.124.169.195 -X
+<Remote> $ sshpass -p <password> ssh vu19p@60.250.201.136 -X
 ```
 
 ### Step-3: Connect HAPS-ZYNQ via serial console from HAPS-PC  
