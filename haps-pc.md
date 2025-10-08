@@ -10,7 +10,7 @@
 * MSI 微星(DIY)磐龍SBEE Cubi NUC AI 1UMG-040BTW 迷你電腦(155H/64G/4TB PCIe Gen4)
   * **NTD 31,290 | USD 1,023**  [[PChome]](https://24h.pchome.com.tw/prod/DSAUWF-A900J9H2K)
 * ASUS 華碩NUC系列 - 雙碟迷你電腦 (i7-1360P/64G DDR4/2TB HDD+2TSSD/W11P)(Wi-Fi 6E)(2.5G LAN)(HDMI)(USB4)
-  * **NTD 35,900 I USD 1,174** [[PChome]](https://24h.pchome.com.tw/prod/DSAUWL-A900HH700)
+  * **NTD 35,900 | USD 1,174** [[PChome]](https://24h.pchome.com.tw/prod/DSAUWL-A900HH700)
 * ASUS 華碩NUC系列- Ultra 7處理器 - 64G記憶體 / 512G+1TB SSD / Win11家用版迷你電腦(特仕機)
   * **NTD 35,500 | USD 1,085** [[PChome]](https://24h.pchome.com.tw/prod/DSAAOR-A900J5Q5R)
  
