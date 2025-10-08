@@ -21,8 +21,8 @@
 
 ### 1. Access to HAPS-PC
 ```
-ssh vu19p@59.124.169.195 -X
-Password:  
+ssh 60.250.201.136 -X
+Password: demo123@ 
 ```
 
 ### 2. Configure HAPS-FPGA (Skip if already configured)
