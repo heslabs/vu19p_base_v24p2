@@ -10,7 +10,8 @@
   * NTD 31,290  [[PChome]](https://24h.pchome.com.tw/prod/DSAUWF-A900J9H2K)
 * ASUS 華碩NUC系列 - 雙碟迷你電腦 (i7-1360P/64G DDR4/2TB HDD+2TSSD/W11P)(Wi-Fi 6E)(2.5G LAN)(HDMI)(USB4)
   * NTD 35,900 [[PChome]](https://24h.pchome.com.tw/prod/DSAUWL-A900HH700)
-
+* ASUS 華碩NUC系列- Ultra 7處理器 - 64G記憶體 / 512G+1TB SSD / Win11家用版迷你電腦(特仕機)
+  * NTD 35,500 [[PChome]](https://24h.pchome.com.tw/prod/DSAAOR-A900J5Q5R)
  
 ---
 <img width="650" height="616" alt="image" src="https://github.com/user-attachments/assets/7f75f3b9-f440-439a-b1a1-4386f668c7a4" />
@@ -26,9 +27,14 @@
 <img width="650" height="594" alt="image" src="https://github.com/user-attachments/assets/a4df6eec-df37-4519-a2e8-a27433bdb166" />
 
 ---
+<img width="650" height="805" alt="image" src="https://github.com/user-attachments/assets/b541b373-f63a-478a-89f7-1d91859471fd" />
+
+---
 <img width="650" height="549" alt="image" src="https://github.com/user-attachments/assets/52ec28d1-86ef-4232-bb65-175828228925" />
 
 <img width="650" height="455" alt="image" src="https://github.com/user-attachments/assets/4753dcd9-4c94-4292-b646-5c79ea3ad26a" />
+
+
 
 ---
 <img width="650" height="548" alt="image" src="https://github.com/user-attachments/assets/34957b4b-9680-4028-8ab2-73dc22da8c0c" />
