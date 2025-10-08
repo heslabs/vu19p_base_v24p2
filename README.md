@@ -10,7 +10,7 @@
 |:-|:-|:-|:-|
 | HAPS-VU19P | 192.168.50.2 | HAPS-SX VU19P | 192.168.50.92 |
 | HAPS-ZYNQ | 192.168.50.3 | HAPS SMF ZynqMPSoC/CA53 module | 192.168.50.93 |
-| HAPS-PC | 192.168.50.5 | Linux PC | 192.168.50.95 |
+| HAPS-PC | 192.168.50.82 | Linux PC: vu19@cx6b | 192.168.50.95 |
 
 
 * The smart WiFi plug is used to reset HAPS-ZYNQ after HAPS-FPGA programmed
