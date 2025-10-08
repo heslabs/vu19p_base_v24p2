@@ -8,6 +8,7 @@
 
 | Device | IP Address | Description | Smart WiFi Plug |
 |:-|:-|:-|:-|
+| Internet | 60.250.201.136 | IP Forwarding to HAPS-PC |   |
 | HAPS-VU19P | 192.168.50.2 | HAPS-SX VU19P | 192.168.50.92 |
 | HAPS-ZYNQ | 192.168.50.3 | HAPS SMF ZynqMPSoC/CA53 module | 192.168.50.93 |
 | HAPS-PC | 192.168.50.82 | Linux PC: vu19@cx6b | 192.168.50.95 |
