@@ -2,8 +2,7 @@
 
 ## Lab Environment Setup  
  
-
-<img width="1000" height="499" alt="image" src="https://github.com/user-attachments/assets/ffbf72e3-f7cd-454f-8d49-e521263e18a8" />
+<img width="1000" height="508" alt="image" src="https://github.com/user-attachments/assets/10774dc4-63bb-478a-ace5-db4a1712b750" />
 
 ---
 
