@@ -1,8 +1,9 @@
 # HAPS VU19P Prototyping System
 
 ## Lab Environment Setup  
+ 
 
-<img src="https://github.com/user-attachments/assets/1c8c767d-aef3-4d51-a60a-0de7b0845120" width=950>
+<img width="1000" height="499" alt="image" src="https://github.com/user-attachments/assets/ffbf72e3-f7cd-454f-8d49-e521263e18a8" />
 
 ---
 
