@@ -2,7 +2,7 @@
 
 ## Lab Environment Setup  
  
-<img width="1000" height="508" alt="image" src="https://github.com/user-attachments/assets/10774dc4-63bb-478a-ace5-db4a1712b750" />
+<img width="1000" height="505" alt="image" src="https://github.com/user-attachments/assets/f21074ec-d1e1-4dfb-9724-4f57e3beae40" />
 
 ---
 
@@ -22,7 +22,7 @@
 ### 1. Access to HAPS-PC
 ```
 ssh 60.250.201.136 -X
-Password: demo123@ 
+Password: xxxxxx 
 ```
 
 ### 2. Configure HAPS-FPGA (Skip if already configured)
